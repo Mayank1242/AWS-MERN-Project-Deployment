@@ -1,6 +1,6 @@
-# 🚀 AWS 2-Tier MERN Stack Deployment Project
+#  AWS 2-Tier MERN Stack Deployment Project
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates how to deploy a **production-style MERN stack application** on **AWS using a 2-tier architecture** with:
 
@@ -15,7 +15,7 @@ The goal is to simulate an **industry-standard scalable cloud deployment archite
 
 ---
 
-# 🎯 Problem Statement
+#  Problem Statement
 
 A MERN stack application currently runs on a **single local server**, causing:
 
@@ -30,7 +30,7 @@ This project solves these issues by deploying the application on **AWS using a s
 
 ---
 
-# 🏗️ Architecture Diagram
+#  Architecture Diagram
 
 ```
 User
@@ -71,7 +71,7 @@ MongoDB Atlas (Managed Database)
 
 ---
 
-# 🧱 Infrastructure Design
+#  Infrastructure Design
 
 ## Tier 1 – Frontend Layer
 
@@ -95,7 +95,7 @@ Node.js + Express backend deployed:
 
 ---
 
-# 🗄️ Database Layer
+#  Database Layer
 
 MongoDB Atlas is used as managed database service.
 
@@ -108,7 +108,7 @@ Benefits:
 
 ---
 
-# 🔐 Security Implementation
+#  Security Implementation
 
 Security best practices followed:
 
@@ -121,7 +121,7 @@ Security best practices followed:
 
 ---
 
-# 📈 Scalability Features
+#  Scalability Features
 
 This architecture supports:
 
@@ -132,7 +132,7 @@ This architecture supports:
 
 ---
 
-# 🌐 Networking Architecture
+#  Networking Architecture
 
 Custom VPC configured with:
 
@@ -145,7 +145,7 @@ Custom VPC configured with:
 
 ---
 
-# 🚀 Deployment Workflow
+#  Deployment Workflow
 
 ### Step 1
 
