@@ -257,6 +257,9 @@ Possible enhancements:
 
 ---
 
+# Setup Guide
+* https://www.notion.so/Deploy-MERN-Project-on-AWS-32f50c8296ee8049a9d8d088151ee4f6?source=copy_link
+
 # 👨‍💻 Author
 
 **Mayank Mishra**
